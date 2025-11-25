@@ -1,5 +1,5 @@
 # To-do-List
-This repository contains a simple To-Do List application built in C#. It allows users to effectively manage their daily tasks.  
+This repository contains a simple To-Do List application built in HTML, CSS, and Javascript. It allows users to effectively manage their daily tasks.  
 
 **Features:**  
 
