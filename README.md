@@ -4,7 +4,11 @@ This repository contains a simple To-Do List application built in C#. It allows 
 **Features:**  
 
 *Add new tasks with a description and optional priority. 
+
 *View a list of all tasks, potentially sorted or filtered. 
+
 *Mark tasks as completed. 
+
 *Edit existing task details. 
+
 *Delete tasks from the list.
