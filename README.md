@@ -1,4 +1,4 @@
-# To-do-List
+# Task Manager
 This repository contains a simple task management web application built in HTML, CSS, and Javascript. It allows users to effectively manage their daily tasks.  
 
 **Features:**  
