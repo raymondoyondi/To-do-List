@@ -1,4 +1,4 @@
-# 📋 Task Manager Web Application
+# 📋 Task Manager 
 
 ## 🚀 Overview
 
