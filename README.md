@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-The **Task Manager** is a simple, yet effective, single-page web application designed to help users manage their daily tasks efficiently and with minimal fuss. Built using fundamental web technologies (HTML, CSS, and vanilla JavaScript), this application provides a clean, intuitive interface for adding, tracking, and completing your to-do items. It’s perfect for anyone needing a straightforward tool to keep their day organized without the complexity of larger, feature-heavy applications.
+The **Task Manager** is a simple, yet effective, single-page web application designed to help users manage their daily tasks efficiently and with minimal fuss. Built using fundamental web technologies (HTML5, CSS3, and JavaScript), this application provides a clean, intuitive interface for adding, tracking, and completing your to-do items. It’s perfect for anyone needing a straightforward tool to keep their day organized without the complexity of larger, feature-heavy applications.
 
 This project focuses on providing a snappy, client-side solution for personal task organization, prioritizing ease of use and a smooth user experience.
 
@@ -18,8 +18,8 @@ This project focuses on providing a snappy, client-side solution for personal ta
 
 This project leverages the power and simplicity of core web development languages:
 
-* **HTML:** Used for structuring the content and semantics of the task manager.
-* **CSS:** Utilized for styling the application, ensuring a modern and responsive user interface.
+* **HTML5:** Used for structuring the content and semantics of the task manager.
+* **CSS3:** Utilized for styling the application, ensuring a modern and responsive user interface.
 * **JavaScript:** Provides all the interactive functionality, task management logic (adding, deleting, marking complete), and DOM manipulation.
 
 ## 🏁 Getting Started
