@@ -50,8 +50,8 @@ You only need a modern web browser (like Chrome, Firefox, Safari, or Edge) to ru
 The Task Manager is designed to be straightforward and self-explanatory:
 
 1.  **Adding a Task:** Type your new task into the input field at the top and press the "Add" button or hit the `Enter` key.
-2.  **Completing a Task:** Click on the task item itself or the associated checkbox/button to mark it as complete.
-3.  **Removing a Task:** Click the "Delete" or "X" icon that appears next to a task to permanently remove it from the list.
+2.  **Completing a Task:** Click on the checkmark to mark it as complete.
+3.  **Removing a Task:** Click the "Trash" icon that appears next to a task to permanently remove it from the list.
 
 ## 🤝 Contributing
 
